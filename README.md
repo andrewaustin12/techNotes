@@ -1,2 +1,4 @@
 # techNotes
-MERN 
+MERN Stack
+
+
